@@ -28,12 +28,12 @@ variable "AWS_REGION" {
 
 # var.AWS_ACCESS_KEY
 variable "AWS_ACCESS_KEY" {
-  default = "AKIA6EM2KA4432FHONXB"
+  default = ""
   description = "AWS Access Key"
 }
 
 # var.AWS_SECRET_KEY
 variable "AWS_SECRET_KEY" {
-  default = "SdsXchiHt4a0u+mc+h2yZzg7Pw4XYrkg6NRhz6R5"
+  default = ""
   description = "AWS Secret Key"
 }
